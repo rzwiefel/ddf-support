@@ -39,6 +39,7 @@
         <module>support-pmd</module>
         <module>support-karaf</module>
         <module>support-maven-plugins</module>
+        <module>spock-shaded</module>
     </modules>
 
     <properties>
